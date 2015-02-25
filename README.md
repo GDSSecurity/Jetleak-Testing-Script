@@ -15,7 +15,7 @@ $ python jetleak_tester.py http://[ENTER HOSTNAME] 80
 This version of Jetty is NOT vulnerable to JetLeak.
 ```
 
-Sample Output for a server that is vulnerable
+Sample Output for a server that is vulnerable:
 
 ```
 $ python jetleak_tester.py http://[ENTER HOSTNAME] 80
