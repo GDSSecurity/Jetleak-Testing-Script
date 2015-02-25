@@ -3,7 +3,7 @@
 This tool is intended to provide a quick-and-dirty way for organizations to test whether their Jetty web server versions are vulnerable to JetLeak. Currently, this script does not handle sites with invalid SSL certs. This will be fixed in a future iteration.
 
 For additional details on the Jetleak vulnerability refer to our blog post:
-<ADD URL HERE>
+ADD URL HERE
 
 Sample Usage: python jetleak_tester.py [url] [port]
 
